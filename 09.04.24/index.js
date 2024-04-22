@@ -27,3 +27,7 @@ function reserveFunction() {
     // Redirect to reservation page for function space
     window.location.href = "reservation.html";
 }
+
+function emailSignup() {
+    window.location.href = "singup.html"
+}
